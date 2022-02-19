@@ -19,6 +19,7 @@ The features of the automated teller machine include the following.
 * Cash withdrawal
 * Perform a range of features in your foreign language.
 ## Requirements
+
 ### High-Level requirements
 The user/customer should perform following tasks
 * The user could be able to check the Balance in his bank account.
@@ -36,6 +37,7 @@ The user/customer should perform following tasks
 ## Block Diagram of Automated Teller Machine
 * The block diagram of the automated teller machine consists of mainly two input devices and four output devices. 
 * The input devices like card reader and keypad whereas output devices are speaker, display screen, receipt printer, and cash depositor.
+ ![ATM_BLOCK_DIAGRAM (1)](https://user-images.githubusercontent.com/98812447/154797470-478ba7ba-84b5-4255-bf0c-adf27c6e5975.png)
  ![ATM_Block_diagram](https://user-images.githubusercontent.com/98812447/154794393-0c1bbb80-5f4c-4910-bfc5-7b10d6e8c96a.png)
 ## Input Devices
 The input devices like card reader and keypad.
