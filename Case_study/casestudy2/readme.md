@@ -1,4 +1,5 @@
 ## Smart Irrigation system
+### Block diagram
 ![Smart_irrigation_system](https://user-images.githubusercontent.com/98812447/154874950-e78d71b1-bf47-4963-a576-9e095a122017.png)
 ### Humidity sensor
 * A humidity sensor (or hygrometer) senses, measures and reports both moisture and air temperature.
