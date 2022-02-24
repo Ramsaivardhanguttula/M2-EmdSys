@@ -20,3 +20,7 @@ A relay driver circuit is a circuit which can drive, or operate, a relay so that
 Motor is used in his project to fill the tank with water according to the instructions given by the microprocessor. It is connected to a relay which energises and de-energises based on the water requirement.
 ### MicroController
 Microprocessor acts as the brain of the  **AUTOMATIC WATER FILLER AND WATER LEVEL INDICATOR** project. It takes informatio from the ultrasonic sensor, gives commands to the LCD display, relay and motor.
+## SWOT Analysis
+![Web_Photo_Editor (2)](https://user-images.githubusercontent.com/98812447/155584058-d9bd402c-6692-41ce-b7bb-629a03c9f6af.jpg)
+
+
