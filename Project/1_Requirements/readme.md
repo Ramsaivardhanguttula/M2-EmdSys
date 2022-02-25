@@ -25,3 +25,9 @@
 | H3L2 | The micro controller should command the relay and turn off motor |  | H4L2 |The microcontroller shall divide the distances to levels and display the particular level in 16*2 LCD display |
 
 ---
+## SWOT Analysis
+![Web_Photo_Editor (2)](https://user-images.githubusercontent.com/98812447/155584058-d9bd402c-6692-41ce-b7bb-629a03c9f6af.jpg)
+## 5W's and 1H
+
+
+![5wsand1H](https://user-images.githubusercontent.com/98812447/155658285-72cc0e0c-b3f5-422c-a917-b059019a866b.png)
