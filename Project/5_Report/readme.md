@@ -46,7 +46,7 @@ The name of the project is **AUTOMATIC WATER FILLER AND WATER LEVEL INDICATOR** 
 As the name indicates, ultrasonic sensors measure distance by using ultrasonic waves. The sensor head emits an ultrasonic wave and receives the wave reflected back from the target. The ultrasonic waves emitted hits the water and the distance is measured. This information is given to the microprocessor as input.
 
 ### 2.3_Actuators(Motor)
-Motor is used in his project to fill the tank with water according to the instructions given by the microprocessor. It is connected to a relay which energises and de-energises based on the water requirement.
+Motor is used in this project to fill the tank with water according to the instructions given by the microprocessor. It is connected to a relay which energises and de-energises based on the water requirement.
 ### 2.4_Micro controller and memory
 Microprocessor acts as the brain of the  **AUTOMATIC WATER FILLER AND WATER LEVEL INDICATOR** project. It takes informatio from the ultrasonic sensor, gives commands to the LCD display, relay and motor.
 ### 2.5_Sub-system and others
