@@ -54,3 +54,19 @@ Microprocessor acts as the brain of the  **AUTOMATIC WATER FILLER AND WATER LEVE
 | H3L2 | The micro controller should command the relay and turn off motor |  | H4L2 |The microcontroller shall divide the distances to levels and display the particular level in 16*2 LCD display |
 
 ---
+## Applications
+* This can be used to monitor the levels of various 
+liquids and oils in corporations and chemical labs, as well as 
+water tanks
+* The system is completely automated. 
+As a result, it does not necessitate professional support.
+* We used a transistor as a basis for this system, 
+which was coupled to a relay, as well as low-cost local 
+components.Hence, It's 
+not prohibitively expensive.
+* It may be customized and used in some 
+situations, including preventing highly hazardous liquid 
+spills in chemical plants and other natural disasters.
+
+## Conclusion and future scope
+The project's primary goal is to develop a system that is customizable, cost-effective, and simple to set up to reduce water loss. A web-based water level monitoring and control system for home automation could be constructed soon, allowing the system to be managed from anywhere using the internet and a mobile phone. A GSM module can be used to send SMS messages with the current status to registered mobile phones. It may be customized and used in some situations, including preventing highly hazardous liquid spills in chemical plants and other natural disasters.
