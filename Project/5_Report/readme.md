@@ -20,7 +20,6 @@
         1. Low Level Flow chart Behavioural Diagram
     1. Structural Diagram
         1. High Level UML Use Case Structural Diagram
-        1. Low Level UML Use Case Structural Diagram
 1. Test plan and Output
     1. High level test plan
     1. Low level test plan
@@ -98,6 +97,7 @@ A relay driver circuit is a circuit which can drive, or operate, a relay so that
    ![ATM_BLOCK_DIAGRAM (5)](https://user-images.githubusercontent.com/98812447/155840884-71c3a894-c0ea-402f-adc1-2238d2553e49.png)
 
    ### 4.2_Structural Diagram
+   #### UML Use Case Structural Diagram
    
    ![UML](https://user-images.githubusercontent.com/98812447/155836064-35aa5a3e-0126-4a72-8027-36ed4369bc27.png)
    
