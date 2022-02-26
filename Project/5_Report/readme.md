@@ -92,11 +92,13 @@ A relay driver circuit is a circuit which can drive, or operate, a relay so that
 ## 4_Architecture
    ### 4.1_Behavioural Diagram
    
-   
+   ![ATM_BLOCK_DIAGRAM (4)](https://user-images.githubusercontent.com/98812447/155837071-4471c1d4-db20-481c-8ec6-2a37e141d390.png)
+
    
    ### 4.2_Structural Diagram
    
-   
+   ![UML](https://user-images.githubusercontent.com/98812447/155836064-35aa5a3e-0126-4a72-8027-36ed4369bc27.png)
+
 ## 5_Test plan and Output
    ### 5.1 High level test plan
    
