@@ -1,10 +1,55 @@
 # AUTOMATIC WATER FILLER AND WATER LEVEL INDICATOR
-## Description
+## Table of content
+1. About the AUTOMATIC WATER FILLER AND WATER LEVEL INDICATOR
+    1. Description
+    1. Identifying features
+    1. 5W's & 1H
+    1. S.W.O.T analysis 
+1. Block Diagram and Blocks explination
+    1. Block Diagram
+    1. Sensors
+    1. Actuators
+    1. Micro controller and memory
+    1. Sub-system and others
+ 1. Requirements
+    1. High level requirements
+    1. Low level requirements
+ 1. Architecture
+    1. Behavioural Diagram
+        1. High Level Flow chart Behavioural Diagram
+        1. Low Level Flow chart Behavioural Diagram
+    1. Structural Diagram
+        1. High Level UML Use Case Structural Diagram
+        1. Low Level UML Use Case Structural Diagram
+1. Test plan and Output
+    1. High level test plan
+    1. Low level test plan
+1. Application
+1. Conclusion and future scope
+## 1.1_Description
 The name of the project is **AUTOMATIC WATER FILLER AND WATER LEVEL INDICATOR** which is an innovative and efficient idea, which fills the water tank automatically and also indicates the water level. In this project the tank will be divided into certain levels and the level will be indicated in LCD display. Whenever water decreases to a certain threshold the motor gets automatically switched on and the water will be filled to certain level and turns off automatically.
-## Block diagram
+## 1.2_Identifying features
+
+
+
+## 1.3_SWOT Analysis
+![Web_Photo_Editor (2)](https://user-images.githubusercontent.com/98812447/155584058-d9bd402c-6692-41ce-b7bb-629a03c9f6af.jpg)
+## 1.4_5W's and 1H
+
+
+![5wsand1H](https://user-images.githubusercontent.com/98812447/155658285-72cc0e0c-b3f5-422c-a917-b059019a866b.png)
+## 2. Block Diagram and Blocks explination
+###  2.1_Block Diagram
+
 ![AutomaticWaterFillerAndWaterLevelIndicator](https://user-images.githubusercontent.com/98812447/155518159-00aaa8de-ee56-4e4e-bc10-a3925db845ed.png)
-### Sensor(Ultrasonic Sensor)
+###  2.2_Sensors(Ultrasonic Sensor)
 As the name indicates, ultrasonic sensors measure distance by using ultrasonic waves. The sensor head emits an ultrasonic wave and receives the wave reflected back from the target. The ultrasonic waves emitted hits the water and the distance is measured. This information is given to the microprocessor as input.
+
+### 2.3_Actuators(Motor)
+Motor is used in his project to fill the tank with water according to the instructions given by the microprocessor. It is connected to a relay which energises and de-energises based on the water requirement.
+### 2.4_Micro controller and memory
+Microprocessor acts as the brain of the  **AUTOMATIC WATER FILLER AND WATER LEVEL INDICATOR** project. It takes informatio from the ultrasonic sensor, gives commands to the LCD display, relay and motor.
+### 2.5_Sub-system and others
 ### LCD display
 * 16×2 LCD is a 32 digits display screen for all kinds of CMOS/TTL devices. This word comes from the liquid crystal and 16X2 represents its screen size. In Liquid crystal display 16×2, there are 2 rows and 16 columns. 
 * In this project LCD display is used to provide the information by indicating the water level, the state of the motor, the height data can be visualized
@@ -14,23 +59,13 @@ in the LCD 16 × 2 display. The LCD displays the real-time data of the water hei
 *  Relay in this project energises the motor when the water level is below the threshold and de-energises the motor when water level reaches a certain level.
 ### Driver circuit
 A relay driver circuit is a circuit which can drive, or operate, a relay so that it can function appropriately in a circuit.
-### Memory
-
-### Actuator(Motor)
-Motor is used in his project to fill the tank with water according to the instructions given by the microprocessor. It is connected to a relay which energises and de-energises based on the water requirement.
-### MicroController
-Microprocessor acts as the brain of the  **AUTOMATIC WATER FILLER AND WATER LEVEL INDICATOR** project. It takes informatio from the ultrasonic sensor, gives commands to the LCD display, relay and motor.
-## SWOT Analysis
-![Web_Photo_Editor (2)](https://user-images.githubusercontent.com/98812447/155584058-d9bd402c-6692-41ce-b7bb-629a03c9f6af.jpg)
-## 5W's and 1H
 
 
-![5wsand1H](https://user-images.githubusercontent.com/98812447/155658285-72cc0e0c-b3f5-422c-a917-b059019a866b.png)
 
-## Requirements
+## 3_Requirements
 
 <!-- Tables -->
-### High Level Requirements
+### 3.1_High Level Requirements
 
 | ID | High Level Requirements |
 | -------- | -------------- |
@@ -39,7 +74,7 @@ Microprocessor acts as the brain of the  **AUTOMATIC WATER FILLER AND WATER LEVE
 | HL3 | It shall automatically turn off the motor when the tank is filled |
 | HL4 | It should display at what level the water is present  |
 
-### Low Level Requirements
+### 3.2_Low Level Requirements
 
 | ID | Low Level Requirements for HL1|       |ID | Low Level Requirements for HL2|
 | -------- | -------------- | ---- |-------- | -------------- |
@@ -54,7 +89,23 @@ Microprocessor acts as the brain of the  **AUTOMATIC WATER FILLER AND WATER LEVE
 | H3L2 | The micro controller should command the relay and turn off motor |  | H4L2 |The microcontroller shall divide the distances to levels and display the particular level in 16*2 LCD display |
 
 ---
-## Applications
+## 4_Architecture
+   ### 4.1_Behavioural Diagram
+   
+   
+   
+   ### 4.2_Structural Diagram
+   
+   
+## 5_Test plan and Output
+   ### 5.1 High level test plan
+   
+   
+   ### 5.2 Low level test plan
+   
+  
+    
+## 6_Applications
 * This can be used to monitor the levels of various 
 liquids and oils in corporations and chemical labs, as well as 
 water tanks
@@ -68,5 +119,5 @@ not prohibitively expensive.
 situations, including preventing highly hazardous liquid 
 spills in chemical plants and other natural disasters.
 
-## Conclusion and future scope
+## 7_Conclusion and future scope
 The project's primary goal is to develop a system that is customizable, cost-effective, and simple to set up to reduce water loss. A web-based water level monitoring and control system for home automation could be constructed soon, allowing the system to be managed from anywhere using the internet and a mobile phone. A GSM module can be used to send SMS messages with the current status to registered mobile phones. It may be customized and used in some situations, including preventing highly hazardous liquid spills in chemical plants and other natural disasters.
