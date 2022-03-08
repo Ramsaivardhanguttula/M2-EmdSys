@@ -1,6 +1,6 @@
 
-## 5_Test plan and Output
-   ### 5.1 High level test plan
+## Test plan and Output
+   ### High level test plan
    | Test ID | Description | Input | Expected output | Actual Output | Passed or not |
 | --- | --- | --- | --- | --- | --- |
 | 01 | LCD display | Water level in the tank  | Should Display the water percentage and motor state| Display the water % and motor state  |  ✅ |
@@ -10,7 +10,7 @@
 
    
    
-   ### 5.2 Low level test plan
+   ### Low level test plan
 | Test ID (for LCD display)| Description | Input | Expected output | Actual Output | passed/not |   
 | --- | --- | --- | --- | --- | --- |
 | 01 | Water level percentage | Water level | water is at 0% State of motor |  water is at 0%  Motor is on | ✅ |
